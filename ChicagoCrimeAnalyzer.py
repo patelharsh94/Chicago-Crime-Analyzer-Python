@@ -5,7 +5,8 @@ from collections import Counter
 
 # +-------------------------------------------------------------------------------+
 # | Name: Chicago Crime Analyzer : In Python                                      |
-# | author: Harsh Patel                                                           |
+# | Author: Harsh Patel                                                           |
+# | Date: 12/27/2015                                                              |
 # | Desc: This program reads in data about the crimes in Chicago                  |
 # |       and provides the user with interesting information about Chicago's crime|
 # +-------------------------------------------------------------------------------+
